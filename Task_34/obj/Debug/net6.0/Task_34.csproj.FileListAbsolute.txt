@@ -1,0 +1,15 @@
+/Users/marinaalfereva/Desktop/Homework_C#_5/Task_34/obj/Debug/net6.0/Task_34.csproj.AssemblyReference.cache
+/Users/marinaalfereva/Desktop/Homework_C#_5/Task_34/obj/Debug/net6.0/Task_34.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinaalfereva/Desktop/Homework_C#_5/Task_34/obj/Debug/net6.0/Task_34.AssemblyInfoInputs.cache
+/Users/marinaalfereva/Desktop/Homework_C#_5/Task_34/obj/Debug/net6.0/Task_34.AssemblyInfo.cs
+/Users/marinaalfereva/Desktop/Homework_C#_5/Task_34/obj/Debug/net6.0/Task_34.csproj.CoreCompileInputs.cache
+/Users/marinaalfereva/Desktop/Homework_C#_5/Task_34/bin/Debug/net6.0/Task_34
+/Users/marinaalfereva/Desktop/Homework_C#_5/Task_34/bin/Debug/net6.0/Task_34.deps.json
+/Users/marinaalfereva/Desktop/Homework_C#_5/Task_34/bin/Debug/net6.0/Task_34.runtimeconfig.json
+/Users/marinaalfereva/Desktop/Homework_C#_5/Task_34/bin/Debug/net6.0/Task_34.dll
+/Users/marinaalfereva/Desktop/Homework_C#_5/Task_34/bin/Debug/net6.0/Task_34.pdb
+/Users/marinaalfereva/Desktop/Homework_C#_5/Task_34/obj/Debug/net6.0/Task_34.dll
+/Users/marinaalfereva/Desktop/Homework_C#_5/Task_34/obj/Debug/net6.0/refint/Task_34.dll
+/Users/marinaalfereva/Desktop/Homework_C#_5/Task_34/obj/Debug/net6.0/Task_34.pdb
+/Users/marinaalfereva/Desktop/Homework_C#_5/Task_34/obj/Debug/net6.0/Task_34.genruntimeconfig.cache
+/Users/marinaalfereva/Desktop/Homework_C#_5/Task_34/obj/Debug/net6.0/ref/Task_34.dll
